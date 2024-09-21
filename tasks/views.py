@@ -7,7 +7,7 @@ import json
 import os
 
 # Cargar el modelo previamente entrenado
-model = load_model('tasks/resultados/distemper_dense_model.h5')
+model = load_model('tasks/media/distemper_dense_model.h5')
 # Definir el número de características
 n_features = 12
 
